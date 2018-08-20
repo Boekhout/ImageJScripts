@@ -10,3 +10,4 @@ If only interested in number of foci, and of the 'FociCount' and indicated meiot
 
 More detailed analysis, such as focus size and intensity, the 'REC114_FOCI_Number_intensity.ijm' will be more suited, and should work sufficiently for different stages up to pachynema. 
 
+For colocalization use 2 Channel_Axis_associated_colocalization.ijm which outputs an excel file with the percentage of colocalization per focus between two channels as defined in the script. 
