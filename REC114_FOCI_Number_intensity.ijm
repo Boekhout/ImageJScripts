@@ -5,7 +5,7 @@
 // If requested, I will consider making a screencast to show the easiest way of determining whether or not this algorithm is working well. 
 
 
-MyDirectory = getDirectory("Where yo files at dawg?");
+MyDirectory = getDirectory("Where are your files located?");
 output = getDirectory("Choose where to SAVE the ROIs and Excell");
 ListOfFiles = getFileList(MyDirectory);
 NumberOfFiles = ListOfFiles.length;
