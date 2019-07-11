@@ -1,5 +1,5 @@
 # ImageJScripts
-Collection of ImageJ scripts associated with publication (...) 
+Collection of ImageJ scripts associated with publication (https://doi.org/10.1016/j.molcel.2019.03.023) 
 
 These scripts were all adapted to be used with Composite 3 channel 16 bit images, of which at least 1 channel contains SYCP3 staining, to be able to determine axis association of foci. 
 
